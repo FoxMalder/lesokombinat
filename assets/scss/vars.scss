@@ -1,0 +1,39 @@
+// Colors
+$white: #ffffff;
+$black: #333;
+$dark: #454545;
+$light-green: #11ba77;
+$blue: #5273c8;
+$dark-gray: #5d5d5f;
+$font-color: #676767;
+$gray: #b2b2b2;
+$light-gray: #e3e7e7;
+$footer-color: #bbbbbb;
+
+// Sizes
+$base-font-size: 15px;
+$base-font-button-size: 18px;
+$middle-font-size: 18px;
+$big-font-size: 20px;
+$giant-size: 54px;
+
+// Device sizes
+$phone: 400px;
+$phone-wide: 480px;
+$phablet: 560px;
+$tablet-small: 640px;
+$tablet: 768px;
+$tablet-wide: 1024px;
+$desktop: 1248px;
+$desktop-wide : 1440px;
+
+$content-size: 1200px;
+
+$error-color: #FF6683;
+$error-background-color: mix(#FF6683, white, 20%);
+$error-border-color: darken(#FF6683, 40%);
+
+$success-color: #42b66e;
+
+$border-radius: 30px;
+$animation-duration: .3s;
